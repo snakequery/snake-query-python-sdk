@@ -5,9 +5,9 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setup(
     name="snake-query-sdk",
-    version="1.0.0",
-    author="",
-    author_email="",
+    version="1.0.1",
+    author="Snake Query",
+    author_email="info@snakequery.com",
     description="Python SDK for Snake Query API - Natural language data querying with AI",
     long_description=long_description,
     long_description_content_type="text/markdown",
