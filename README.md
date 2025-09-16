@@ -53,7 +53,7 @@ print(result['response']) # Structured data
 - [📚 Full Documentation](https://docs.snakequery.com/python-sdk)
 - [🚀 Getting Started](https://app.snakequery.com/)
 - [🏗️ Schema Building Guide](https://docs.snakequery.com/essentials/schema-building)
-- [💻 Examples](./examples/)
+- [💻 Examples](https://github.com/snakequery/snake-query-python-sdk/tree/master/examples)
 
 ## 🎯 Core Concepts
 
@@ -224,7 +224,7 @@ All successful queries return a dictionary:
 
 ## 🚀 Examples
 
-Check out the [examples directory](./examples/) for complete working examples.
+Check out the [examples directory](https://github.com/snakequery/snake-query-python-sdk/tree/master/examples) for complete working examples.
 
 Run an example:
 ```bash
