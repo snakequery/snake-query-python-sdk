@@ -5,17 +5,17 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setup(
     name="snake-query-sdk",
-    version="1.0.1",
+    version="1.0.2",
     author="Snake Query",
     author_email="info@snakequery.com",
     description="Python SDK for Snake Query API - Natural language data querying with AI",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/snakequery/snake-query-python-sdk",
+    url="http://snakequery.com/",
     project_urls={
         "Bug Reports": "https://github.com/snakequery/snake-query-python-sdk/issues",
         "Source": "https://github.com/snakequery/snake-query-python-sdk/",
-        "Documentation": "https://github.com/snakequery/snake-query-python-sdk#readme",
+        "Documentation": "https://docs.snakequery.com/python-sdk",
     },
     packages=find_packages(),
     classifiers=[
