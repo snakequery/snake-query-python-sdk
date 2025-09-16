@@ -50,9 +50,9 @@ print(result['response']) # Structured data
 
 ## 📖 Documentation
 
-- [📚 Full Documentation](./docs/README.md)
-- [🚀 Getting Started](./docs/getting-started.md)
-- [🏗️ Schema Building Guide](./docs/schema-building.md)
+- [📚 Full Documentation](https://docs.snakequery.com/python-sdk)
+- [🚀 Getting Started](https://app.snakequery.com/)
+- [🏗️ Schema Building Guide](https://docs.snakequery.com/essentials/schema-building)
 - [💻 Examples](./examples/)
 
 ## 🎯 Core Concepts
